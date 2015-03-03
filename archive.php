@@ -24,5 +24,6 @@
 			<?php wp_pagenavi(array('query'=>$my_query)); ?>
 		</div>
 
+test
 				
 
